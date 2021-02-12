@@ -15,10 +15,10 @@
 <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js" alt="Nextjs"/>&nbsp;<img src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript" alt="Typescript"/>&nbsp;<img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest" alt="Jest"/>
 </p>
 <h3>⚡ GitHub Analytics</h3>
-<center>
+<p align="center">
 <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enyasantos&layout=compact&langs_count=8&theme=algolia"/>
 <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=enyasantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</center>
+</p>
 <h3>📫 How to reach me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/enyasantos/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="mailto:enyalgs@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-D14836?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://www.instagram.com/__enyasantos/"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
