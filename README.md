@@ -7,7 +7,7 @@
 <hr>
 <h3> 💻 My Currently Tech Stack </h3>
 <p align="center>
-<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python"/><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="Javascript"/><img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" alt="C"/>
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python"/>&nbsp;<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="Javascript"/>&nbsp;<img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" alt="C"/>
 <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React"/><img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Nodejs"/><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML"/><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS"/><img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub"/> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"/>
 </p>
 <h3>🌱 I'm currently learning...</h3>
