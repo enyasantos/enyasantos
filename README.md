@@ -32,3 +32,7 @@ ee|ff|gg
 <p align="center">
 <a href="https://www.linkedin.com/in/enyasantos/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="mailto:enyalgs@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-D14836?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://www.instagram.com/__enyasantos/"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p><br><br>
+
+td, th {
+    border: 1px solid grey
+}
