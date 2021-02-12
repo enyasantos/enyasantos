@@ -22,9 +22,11 @@
         <td><img width="495px" align="right" src="https://github-readme-stats.vercel.app/api?username=enyasantos&theme=buefy"/></td>
     </tr>   
 </table>
-  aa|bb|cc
+  
+ aa|bb|cc
 --|--|--
 ee|ff|gg 
+
 </center>  
 <h3>📫 How to reach me</h3>
 <p align="center">
