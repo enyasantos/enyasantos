@@ -18,21 +18,13 @@
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyasantos&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="right" src="https://github-readme-stats.vercel.app/api?username=enyasantos&theme=buefy"/></td>
+        <td><img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enyasantos&layout=compact&langs_count=8&theme=algolia"/></td>
+        <td><img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=enyasantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></td>
     </tr>   
 </table>
-  
- aa|bb|cc
---|--|--
-ee|ff|gg 
 
 </center>  
 <h3>📫 How to reach me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/enyasantos/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="mailto:enyalgs@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-D14836?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://www.instagram.com/__enyasantos/"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p><br><br>
-
-td, th {
-    border: 1px solid grey
-}
