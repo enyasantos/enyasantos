@@ -16,11 +16,8 @@
 </p>
 <h3>⚡ GitHub Analytics</h3>
 <center>
-<table>
-    <tr>
-        <td><img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enyasantos&layout=compact&langs_count=8&theme=algolia"/></td>
-        <td><img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=enyasantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></td>
-    </tr>   
+<img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enyasantos&layout=compact&langs_count=8&theme=algolia"/>
+<img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=enyasantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </table>
 
 </center>  
