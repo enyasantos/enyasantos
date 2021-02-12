@@ -16,7 +16,7 @@
 <h4>GitHub Analytics</h4>
 <p align="center">   
 <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enyasantos&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+</a><br>
 <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=enyasantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
 <br><hr><br>
