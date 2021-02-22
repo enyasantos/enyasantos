@@ -1,3 +1,4 @@
+![capa github](https://github.com/enyasantos/enyasantos/blob/main/images/banner.png) 
 
 <h1 align='center'> Hi <img src="https://github.com/enyasantos/enyasantos/blob/main/images/Hi.gif" width="30px">, I'm Enya Santos  👩‍💻 </h1>
 
