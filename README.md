@@ -1,4 +1,6 @@
-<center><img src="https://github.com/enyasantos/enyasantos/blob/main/images/banner.png" alt="banner"></center>
+<center>
+  <img src="https://github.com/enyasantos/enyasantos/blob/main/images/banner.png" alt="banner">
+</center>
 
 <h1 align='center'> Hi <img src="https://github.com/enyasantos/enyasantos/blob/main/images/Hi.gif" alt="hi gif" width="30px">, I'm Enya Santos  👩‍💻 </h1>
 
