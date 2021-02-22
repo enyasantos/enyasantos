@@ -1,6 +1,6 @@
-![capa github](https://github.com/enyasantos/enyasantos/blob/main/images/banner.png) 
+<center><img src="https://github.com/enyasantos/enyasantos/blob/main/images/banner.png" alt="banner"></center>
 
-<h1 align='center'> Hi <img src="https://github.com/enyasantos/enyasantos/blob/main/images/Hi.gif" width="30px">, I'm Enya Santos  👩‍💻 </h1>
+<h1 align='center'> Hi <img src="https://github.com/enyasantos/enyasantos/blob/main/images/Hi.gif" alt="hi gif" width="30px">, I'm Enya Santos  👩‍💻 </h1>
 
 <p align='center'>
   I live on Mariana - MG, Brazil and studying 💻 Computer Science at the <b>Federal University of Ouro Preto - UFOP</b>
