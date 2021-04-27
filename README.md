@@ -15,7 +15,7 @@
 </p>
 <h3>🌱 I'm currently learning... </h3>
 <p align="center">
-<img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js" alt="Nextjs"/>&nbsp;<img src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript" alt="Typescript"/>&nbsp;<img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest" alt="Jest"/>&nbsp;<img src="https://img.shields.io/badge/-GOlang-05122A?style=flat&logo=go" alt="GOlang"/>
+<img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js" alt="Nextjs"/>&nbsp;<img src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript" alt="Typescript"/>&nbsp;<img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest" alt="Jest"/>&nbsp;<img src="https://img.shields.io/badge/-GOlang-05122A?style=flat&logo=go" alt="GOlang"/>&nbsp;<img src="https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=C#" alt="CSharp"/>
 </p>
 <h3>⚡ GitHub Analytics</h3>
 <p align="center">
