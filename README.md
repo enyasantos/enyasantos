@@ -19,9 +19,9 @@
 </p>
 <h3>⚡ GitHub Analytics</h3>
 <p align="center">
-<img width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyasantos&hide_title=true&layout=compact&theme=midnight-purple"/>
-<img width="500px" src="https://github-readme-stats.vercel.app/api?username=enyasantos&hide_title=true&theme=midnight-purple&show_icons=true"/>
-</p>
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyasantos&hide_title=true&layout=compact&theme=midnight-purple"/>
+<img width="480px" src="https://github-readme-stats.vercel.app/api?username=enyasantos&hide_title=true&theme=midnight-purple&show_icons=true"/>
+</48
 <h3>📫 How to reach me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/enyasantos/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="mailto:enyalgs@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-D14836?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://www.instagram.com/__enyasantos/"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
