@@ -19,7 +19,7 @@
 </p>
 <h3>⚡ GitHub Analytics</h3>
 <p align="center">
-<img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyasantos&hide_title=true&layout=compact&theme=midnight-purple"/>
+<img width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyasantos&hide_title=true&layout=compact&theme=midnight-purple"/>
 <img width="500px" src="https://github-readme-stats.vercel.app/api?username=enyasantos&hide_title=true&theme=midnight-purple&show_icons=true"/>
 </p>
 <h3>📫 How to reach me</h3>
