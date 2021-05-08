@@ -19,8 +19,8 @@
 </p>
 <h3>⚡ GitHub Analytics</h3>
 <p align="center">
-<img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyasantos&hide_title=true&layout=compact&theme=midnight-purple"/>
-<img width="450px" src="https://github-readme-stats.vercel.app/api?username=enyasantos&hide_title=true&theme=midnight-purple&show_icons=true"/>
+<img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyasantos&hide_title=true&layout=compact&theme=react"/>
+<img width="450px" src="https://github-readme-stats.vercel.app/api?username=enyasantos&hide_title=true&show_icons=true&theme=react"/>
 </p>
 <h3>📫 How to reach me</h3>
 <p align="center">
