@@ -18,9 +18,9 @@
 <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js" alt="Nextjs"/>&nbsp;<img src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript" alt="Typescript"/>&nbsp;<img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest" alt="Jest"/>&nbsp;<img src="https://img.shields.io/badge/-GOlang-05122A?style=flat&logo=go" alt="GOlang"/>&nbsp;<img src="https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=C#" alt="CSharp"/>
 </p>
 <h3>⚡ GitHub Analytics</h3>
-<p>
+<p align="center">
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyasantos&hide_title=true&layout=compact&theme=midnight-purple"/>
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=enyasantos&hide_title=true&theme=midnight-purple&show_icons=true"/>
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=enyasantos&hide_title=true&theme=midnight-purple&show_icons=true"/>
 </p>
 <h3>📫 How to reach me</h3>
 <p align="center">
